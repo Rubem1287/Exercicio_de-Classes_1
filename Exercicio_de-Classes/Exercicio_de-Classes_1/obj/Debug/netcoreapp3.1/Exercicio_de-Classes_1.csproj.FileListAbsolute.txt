@@ -1,0 +1,13 @@
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\bin\Debug\netcoreapp3.1\Exercicio_de-Classes_1.exe
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\bin\Debug\netcoreapp3.1\Exercicio_de-Classes_1.deps.json
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\bin\Debug\netcoreapp3.1\Exercicio_de-Classes_1.runtimeconfig.json
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\bin\Debug\netcoreapp3.1\Exercicio_de-Classes_1.runtimeconfig.dev.json
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\bin\Debug\netcoreapp3.1\Exercicio_de-Classes_1.dll
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\bin\Debug\netcoreapp3.1\Exercicio_de-Classes_1.pdb
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\obj\Debug\netcoreapp3.1\Exercicio_de-Classes_1.csprojAssemblyReference.cache
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\obj\Debug\netcoreapp3.1\Exercicio_de-Classes_1.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\obj\Debug\netcoreapp3.1\Exercicio_de-Classes_1.AssemblyInfo.cs
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\obj\Debug\netcoreapp3.1\Exercicio_de-Classes_1.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\obj\Debug\netcoreapp3.1\Exercicio_de-Classes_1.dll
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\obj\Debug\netcoreapp3.1\Exercicio_de-Classes_1.pdb
+C:\Users\rubem\source\repos\Exercicio_de-Classes_1\Exercicio_de-Classes_1\obj\Debug\netcoreapp3.1\Exercicio_de-Classes_1.genruntimeconfig.cache
